@@ -5,3 +5,4 @@ I added several notes on each exercise and corrections to each exercise and make
 
 Note: all solutions were developed in Python on a Jupyter Notebook to make it easier to read.
 1. Exercise 1.2. Smog in the LA Basin
+2. Exercise 2.5. Help Jesse Pinkman
